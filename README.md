@@ -335,7 +335,8 @@ airflow scheduler
 ### Cоздание дага:
 1. Для выполнения кода проекта , код проекта был скопирован в dags
 2. В образ было добавлено копирование конфигов
-3. Был создан dag_test - c запуском тестов.
+3. Был создан dag_test - c запуском тестов. /pc_build_ml_ops/airflow/airflow-compose/dags/dag_test.py
 4. В airflow были добавлены переменые 
 ![alt text](image-2.png)
-
+5. запустила даг в ручную 
+![alt text](image-3.png)
